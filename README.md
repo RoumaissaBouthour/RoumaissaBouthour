@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Roumaissa Ben Bouthour</h1>
-<h3 align="center">A passionate computer science student from Tunisia</h3>
+<p align="center">I'm a computer science student passionate about web development and building cool, user-friendly projects. I'm currently learning new technologies and working on personal projects to sharpen my skills. Feel free to explore my repositories — I'm always open to feedback, collaboration, or just a good dev chat!
+</>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roumaissabouthour&label=Profile%20views&color=0e75b6&style=flat" alt="roumaissabouthour" /> </p>
 
